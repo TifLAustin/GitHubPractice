@@ -1,3 +1,5 @@
-django
-gunicorn
+Django
 django-heroku
+gunicorn
+psycopg2
+whitenoise
